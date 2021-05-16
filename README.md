@@ -1,3 +1,3 @@
-# dannhinman.github.io
+# DanielHinman.github.io
 
 For my CMSC320 Final Project
